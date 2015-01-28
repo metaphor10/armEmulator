@@ -8,10 +8,16 @@ a {
 }
 #screen {
   background-color: black;
+
   width: 20px;
   height: 70px;
   padding: 0px;
   margin: 0px;
-  text-decoration-color: white;
+ border-color: black;
+  color: green;
 
+}
+#textShow{
+  width:200px;
+  height: 200px;
 }

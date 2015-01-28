@@ -6,7 +6,9 @@
     $(function () {
         $("#screen").width($( window ).width()-100);
         $("#screen").height($(window).height()-100);
+
     });
+
 
 $(document).ready(function(){
     $("#screen").keyup(function(e){
@@ -19,5 +21,7 @@ $(document).ready(function(){
     });
     this.value=null;
 
+
 });
+
 

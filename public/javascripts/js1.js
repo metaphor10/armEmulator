@@ -5,7 +5,8 @@
 
     $(function () {
         $("#screen").width($( window ).width()-100);
-        $("#screen").height($(window).height()-100);
+        $("#screen").height($(window).height()-300);
+
 
     });
 
